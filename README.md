@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUI" alt="Banner do Perfil" width="100%"/>
-</p> -->
-
 <h1 align="center">Olá! 👋 Bem-vindo(a) ao meu perfil.</h1>
 
 <p align="center">
@@ -33,6 +29,19 @@
     Manutenção, Desenvolvimento e Integração de Sistemas
   </h3>
 </div>
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-NO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-NO-GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
