@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-NO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Albano15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-NO-GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albano15&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
