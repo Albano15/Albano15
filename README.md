@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API_RESTful-007BFF?style=for-the-badge&logoColor=white" alt="API RESTful"/>
+  <img src="https://img.shields.io/badge/API_RESTful-007BFF?style=for-the-badge&logoColor=white" alt="API's RESTful"/>
   <img src="https://img.shields.io/badge/Clean_Code-239120?style=for-the-badge&logoColor=white" alt="Clean Code"/>
   <img src="https://img.shields.io/badge/Automação-FFD700?style=for-the-badge&logoColor=black" alt="Automação"/>
   <img src="https://img.shields.io/badge/DevOps-0096D6?style=for-the-badge&logo=azuredevops&logoColor=white" alt="DevOps"/>
